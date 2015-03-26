@@ -1,6 +1,4 @@
 
 File 1
 
-Let’s add another line to it
-
-does it work?
+This is another change I want to commit
